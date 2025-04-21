@@ -9,7 +9,8 @@ I'm committed to solving one problem every day using **Java** and improving my p
 | Day | Problem Name              | Link                               
 |-----|---------------------------|------------------------------------------------------------------------------------------------------
 | 01  | Palindromic Array         | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/) 
-| 02  |                           |                                    
+| 02  |    Array insert at index  |[GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-insert-at-index/1?page=2&category=Arrays&difficulty=Basic&sortBy=submissions)
+                       |                                    
 | 03  |                           |                                    
 | ... |                           |                                   
 | 100 |                           |                                   
