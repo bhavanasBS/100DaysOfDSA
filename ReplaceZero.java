@@ -45,7 +45,8 @@ public class ReplaceZero {
                  modifiednum=modifiednum*10+arr[i];
               }
             return modifiednum;
-        }
+
+            }
         
             return num;
         }
