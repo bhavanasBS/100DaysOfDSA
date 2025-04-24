@@ -10,9 +10,14 @@ I'm committed to solving one problem every day using **Java** and improving my p
 |-----|---------------------------|------------------------------------------------------------------------------------------------------
 | 01  | Palindromic Array         | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/) 
 | 02  |    Array insert at index  |[GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-insert-at-index/1?page=2&category=Arrays&difficulty=Basic&sortBy=submissions)
-                       |                                    
-| 03  |                           |                                    
-| ... |                           |                                   
+
+| 03 |     Replace all 0's with 5      | [GeeksForGeeks] https://www.geeksforgeeks.org/problems/replace-all-0s-with-5/1?page=1&category=Arrays&status=solved&sortBy=submissions                     |    
+                                                          
+| 04  |     Count the Zeros       | [GeeksForGeeks][GeeksForGeeks]https://www.geeksforgeeks.org/problems/count-the-zeros2550/1?page=1&category=Arrays&status=solved&sortBy=submissions
+                                                         
+|  |   
+
+|..|
 | 100 |                           |                                   
 
 ---
